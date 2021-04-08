@@ -1,0 +1,6 @@
+server:
+  port: 8080
+
+cluster:
+  maps:
+    cluster2: http://localhost:8081
